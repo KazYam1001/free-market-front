@@ -25,3 +25,5 @@
 |items/search|items#search|商品検索|
 |categories|categories#index|カテゴリ一覧|
 |categories/:id|categories#show|各カテゴリの商品一覧|
+|cards|cards#index|クレジットカードの一覧|
+|cards/new|categories#show|クレジットカードの登録フォーム|
